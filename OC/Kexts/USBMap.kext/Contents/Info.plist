@@ -108,8 +108,10 @@
 						BgAAAA==
 						</data>
 					</dict>
-					<key>HS10</key>
+					<key>HS07</key>
 					<dict>
+						<key>Comment</key>
+						<string>USBMouse</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
